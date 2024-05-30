@@ -1,6 +1,18 @@
 ## Hi, I'm William Walter Robert 👋
 
+Sr. Data Analyst & Tech Director @ UK.
 
+With over 7 years of experience in data analysis and technology leadership, I specialize in Python programming, data migration, and leveraging advanced data analytics to drive business insights and decisions.
+
+🎓 Education:
+
+Bachelor of Engineering (BE) in Computer Engineering from City, University of London (2011 - 2015)
+
+💼 Professional Experience:
+
+Senior Data Analyst (Freelance): Since March 2017, I’ve been working on-site in the UK, utilizing my skills in Python and data migration to provide top-tier analytical services.
+
+I’m always open to connecting with professionals in the industry, sharing knowledge, and exploring new opportunities. Let’s connect and see how we can collaborate to drive innovation and success in the world of data and technology!
 
 # 💻 Tech Stack:
 
